@@ -273,4 +273,4 @@ if __name__ == '__main__':
 # dig @10.15.184.38 -p 40008 -n cs5700cdn.example.com
 # dig @192.168.0.178 -p 40008 -n cs5700cdn.example.com
 
-scp -i /Users/cortey/Documents/GitHub/cs5700_21spring/project5/dnsserver.py tuoying96@ec2-54-159-99-25.compute-1.amazonaws.com
+# scp -i /Users/cortey/.ssh/id_ed25519 /Users/cortey/Documents/GitHub/cs5700_21spring/project5/dnsserver.py tuoying96@ec2-54-159-99-25.compute-1.amazonaws.com
